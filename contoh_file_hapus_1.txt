@@ -1,1 +1,0 @@
-contoh file hapus 1
